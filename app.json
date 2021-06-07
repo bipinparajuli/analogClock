@@ -1,0 +1,12 @@
+{
+  "name": "analogclock",
+  "displayName": "analogclock",
+  "expo": {
+    "name": "analogclock",
+    "slug": "analogclock",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
