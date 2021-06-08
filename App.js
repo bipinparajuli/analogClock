@@ -12,13 +12,13 @@ export default function App() {
 minuteHandLength={110}
 />
 
-<Text>Locale</Text>
+<Text>KTM Labs HQ</Text>
 
 <AnalogClockAus 
 minuteHandLength={110}
 />
 
-<Text>Sydney</Text>
+<Text>KTM Labs HQSydney</Text>
 
 
     </View>
